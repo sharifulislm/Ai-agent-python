@@ -5,5 +5,5 @@ from django.shortcuts import render
 # Create your views here.
 def machine(request):
 
-       return HttpResponse("I love suraiya")
+       return HttpResponse("I love suraiya she is my love")
 
